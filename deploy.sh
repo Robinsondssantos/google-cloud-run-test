@@ -1,0 +1,1 @@
+gcloud beta run deploy --image gcr.io/inobram-platform/helloworldapp --max-instances 20 --platform managed --no-traffic --tag dev
